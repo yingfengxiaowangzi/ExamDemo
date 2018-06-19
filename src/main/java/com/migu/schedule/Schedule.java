@@ -13,8 +13,7 @@ public class Schedule {
 
 
     public int init() {
-        // TODO 方法未实现
-        System.out.printf("test");
+        // TODO 方法未实现 test
         return ReturnCodeKeys.E000;
     }
 
