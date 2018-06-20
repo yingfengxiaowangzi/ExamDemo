@@ -124,7 +124,7 @@ public class Schedule {
         if (taskList.isEmpty()) {
             return ReturnCodeKeys.E014;
         }
-        return ReturnCodeKeys.E014;
+        return ReturnCodeKeys.E000;
     }
 
     public int queryTaskStatus(List<TaskInfo> tasks) {
